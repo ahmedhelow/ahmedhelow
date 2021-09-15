@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedhelow
 - 👀 I’m interested in coding and building interesting projects
-- 🌱 I’m currently studying Computer Science at University of Washiington
+- 🌱 I’m currently studying Computer Science at University of Washington
 
 
 <!---
